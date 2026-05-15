@@ -138,14 +138,6 @@ Improving checkout flow, payment options, and mobile UX can significantly enhanc
 
 ---
 
-## ⚠️ Assumptions & Limitations
-
-* Dataset is simulated
-* User intent is inferred from behavior
-* External factors (pricing strategy, competition) not included
-
----
-
 ## 📁 Tools Used
 
 * Microsoft Excel (Data Analysis)
