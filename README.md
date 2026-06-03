@@ -142,6 +142,7 @@ Improving checkout flow, payment options, and mobile UX can significantly enhanc
 
 * Microsoft Excel (Data Analysis)
 * PowerPoint (Presentation)
+* Claude AI
 
 ---
 
